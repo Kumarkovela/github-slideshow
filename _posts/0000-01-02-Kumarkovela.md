@@ -2,7 +2,7 @@
 layout: slide
 title: "Wellcome to our second slide!"
 ---
-Your text
+edited new file here
 Use the left arrow to go back!
 open poll request
 adding
